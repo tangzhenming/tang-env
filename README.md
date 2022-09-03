@@ -2,7 +2,7 @@
 
 ## 使用方式
 
-1. VSCode 安装 Remote-Container
+1. VSCode 安装 Remote Container
 2. 创建项目文件夹 >>> 创建 Dockerfile >>> `FROM tangzhenming1207/tang-env`
 3. 使用 Remote Container 打开项目（From Dockerfile）
 4. 直接在目录内开发，比如创建 node-project 、go-project 等子目录
